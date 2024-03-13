@@ -1,0 +1,3 @@
+[submodule "Main-project/submodule"]
+	path = Main-project/submodule
+	url = https://github.com/jePark5840/submodule.git
